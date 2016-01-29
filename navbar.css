@@ -14,8 +14,8 @@
 #navbar li{
     display:inline-block;
     border:2px solid blue;
-    background-color:black
+    background-color:white
 }
 #navbar a{
-    color:yellow
+    color:black
 }
