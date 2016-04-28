@@ -16,7 +16,7 @@ function doMath() {
         answer = parseInt(input1.value) - parseInt(input2.value);
         display.innerHTML = answer;
     }
-    if  (dropdown.value == "x"){
+    if  (dropdown.value == "x"){ 
         answer = parseInt(input1.value) * parseInt(input2.value);
         display.innerHTML = answer;
     }
